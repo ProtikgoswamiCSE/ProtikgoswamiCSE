@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Protik Goswami</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
-<img align="right"alt="coding"width="350"src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47a3vkioyz0rests1r3qu5qs3yjfjzfgpmh5qckdo9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right"alt="coding"width="350"src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protikgoswamicse&label=Profile%20views&color=0e75b6&style=flat" alt="protikgoswamicse" /> </p>
 
 

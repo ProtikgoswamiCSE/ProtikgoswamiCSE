@@ -6,6 +6,7 @@
 
 
 <h3 align="left">[Connect with me:](https://shorturl.at/goryE)</h3>
+<h3 align="left">[Connect with me:]([https://shorturl.at/goryE](https://linktr.ee/Protikgoswami))</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

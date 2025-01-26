@@ -27,6 +27,6 @@
 
 
 
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/protik.goswami.140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/protik.goswami.140" height="30" width="40" /></a>
-</p>
+<img align="right"alt="coding"width="350"src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=protikgoswamicse&label=Profile%20views&color=0e75b6&style=flat" alt="protikgoswamicse" /> </p>
+

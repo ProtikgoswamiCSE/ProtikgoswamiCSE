@@ -25,3 +25,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=protikgoswamicse&show_icons=true&locale=en" alt="protikgoswamicse" /></p>
 
+
+
+
+<br clear="both">
+
+<img src="https://github.com/zionmezba/zionmezba/blob/output/snake.svg" alt="Snake animation" />
+

@@ -29,11 +29,11 @@
 
 ###
 <br clear="both">
-
-<img src="https://github.com/ProtikgoswamiCSE/ProtikgoswamiCSE/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zionmezba&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />

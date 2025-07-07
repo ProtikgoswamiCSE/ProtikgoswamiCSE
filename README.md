@@ -1,6 +1,6 @@
 ![logo](https://github.com/ProtikgoswamiCSE/ProtikgoswamiCSE/blob/main/wallpapersden.com_anime-sad-girl-hd-developer_1400x400.png)
 <h1 align="center">Hi 👋, I'm Protik Goswami</h1>
-<h3 align="center">Computer Science Engineering Student</h3>
+<h3 align="center">Computer Science and Engineering Student</h3>
 <img align="right"alt="coding"width="350"src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protikgoswamicse&label=Profile%20views&color=0e75b6&style=flat" alt="protikgoswamicse" /> </p>
 

@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%20I%20am%20Protik;CSE%20Student;Python%20%7C%20C%2B%2B%20Learner;Love%20Coding%20%F0%9F%92%BB"
+  />
+</div>
 
 ![logo](https://github.com/ProtikgoswamiCSE/ProtikgoswamiCSE/blob/main/wallpapersden.com_anime-sad-girl-hd-developer_1400x400.png)
 <h1 align="center">Hi 👋, I'm Protik Goswami</h1>

@@ -65,7 +65,7 @@
 ### Others
 <a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linax,discord&perline=4" /> 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,kali,discord&perline=4" /> 
 </div>
 </a>
 

@@ -39,7 +39,7 @@
 <a href="https://github.com/ProtikgoswamiCSE"> 
 <div align="center"> 
   <!-- AI + Figma --> 
-  <img src="https://skillicons.dev/icons?i=ai,ae,pr,figma&perline=2" /> 
+  <img src="https://skillicons.dev/icons?i=ai,ae,pr,wordpress,figma&perline=2" /> 
   <br/><br/>
   <!-- Video Editing Tools --> 
   <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F3053%2FPNG%2F512%2Ffinal_cut_pro_macos_bigsur_icon_190177.png&id=190177&pack_or_individual=pack" width="50"/> 

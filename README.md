@@ -8,9 +8,6 @@
 <h3 align="left">[Connect with me:](https://linktr.ee/Protikgoswami))</h3>
 
 ## Skill Set:
-
-<table><tr><td valign="top" width="25%">
-
 ### Frontend  
 <a href="https://github.com/tayyabadev">
 <div align="center">  
@@ -27,7 +24,7 @@
 </a>
 
 </td><td valign="top" width="25%">
-  
+
 ### Others
 <a href="https://github.com/tayyabadev">
 <div align="center">

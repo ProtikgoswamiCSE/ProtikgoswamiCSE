@@ -22,13 +22,13 @@
 
 
 
-## Skill Set:
+## 🚀 Skill Set:
 <table>
 <tr>
 
 <td valign="top" width="25%">
 
-### Frontend  
+### 📱 Frontend  
 <a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
@@ -41,7 +41,7 @@
 
 
 
-### Design Tools 
+### 🎨 Design Tools 
 <a href="https://github.com/ProtikgoswamiCSE"> 
 <div align="center"> 
   <!-- AI + Figma --> 
@@ -55,7 +55,7 @@
 
 
 
-### Languages
+### 🌐 Languages
 <a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel,django,flutter,c,cpp,js,php,python&perline=4" /> 
@@ -66,7 +66,7 @@
 
 <td valign="top" width="25%">
 
-### Others
+### ⚙️ Others
 <a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,kali,discord&perline=4" /> 
@@ -80,7 +80,7 @@
 
 
 
-## Connect with me:
+## 📫 Connect with me:
 
 <p align="left">
 
@@ -112,17 +112,17 @@
 
 
 
-## Snake animation:
+## 🐉 Snake animation:
 
 <img src="https://github.com/ProtikgoswamiCSE/ProtikgoswamiCSE/blob/output/snake.svg" alt="Snake animation" />
 
 
-## Streak graph:
+## 📊 Streak graph:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ProtikgoswamiCSE&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-## Activity graph:
+## 🥇 Activity graph:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProtikgoswamiCSE&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 

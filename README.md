@@ -98,6 +98,10 @@
   <img src="https://img.icons8.com/fluency/48/github.png" height="60"/>
 </a>
 
+<a href="https://linktr.ee/Protikgoswami" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=9DOe33RY87VM&format=png&color=000000" height="60"/>
+</a>
+
 </p>
 
 

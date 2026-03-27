@@ -1,11 +1,4 @@
-<div align="center">
-  <a href="https://linkedin.com/in/sam-t-a6706235b">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=24&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Systems%20Administrator%20%E2%86%92%20DevOps;5%2B%20Years%20Enterprise%20IT%20Experience;Cloud%20%7C%20Automation%20%7C%20Security"
-      alt="Systems Administrator → engener · 50+ Years · Cloud | Automation | Security"
-    />
-  </a>
-</div>
+
 
 ![logo](https://github.com/ProtikgoswamiCSE/ProtikgoswamiCSE/blob/main/wallpapersden.com_anime-sad-girl-hd-developer_1400x400.png)
 <h1 align="center">Hi 👋, I'm Protik Goswami</h1>

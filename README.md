@@ -33,16 +33,19 @@
 
 <td valign="top" width="25%">
 
+
+
 ### Design Tools
 <a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">
 
-  <!-- AI + Figma -->
-  <img src="https://skillicons.dev/icons?i=ai,figma&perline=2" />
+  <!-- Design Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
 
   <br/><br/>
 
-  <!-- Video Editing Tools -->
+  <!-- Video Editing Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Final_Cut_Pro_Logo.svg" width="50"/>
@@ -50,9 +53,7 @@
 </div>
 </a>
 
-</td>
 
-<td valign="top" width="25%">
 
 ### Languages
 <a href="https://github.com/ProtikgoswamiCSE">

@@ -39,7 +39,7 @@
 <a href="https://github.com/ProtikgoswamiCSE"> 
 <div align="center"> 
   <!-- AI + Figma --> 
-  <img src="https://skillicons.dev/icons?i=ai,figma&perline=2" /> 
+  <img src="https://skillicons.dev/icons?i=ai,ae,figma&perline=2" /> 
   <br/><br/>
   <!-- Video Editing Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50"/> 
@@ -65,7 +65,7 @@
 ### Others
 <a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,kali,discord&perline=4" /> 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,kali,discord&perline=4" /> 
 </div>
 </a>
 

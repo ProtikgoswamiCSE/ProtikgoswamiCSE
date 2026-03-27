@@ -6,6 +6,18 @@
 
 
 <h3 align="left">[Connect with me:](https://linktr.ee/Protikgoswami))</h3>
+### About 
+
+
+
+<p> gsdafg </p>
+
+
+
+
+
+
+
 
 ## Skill Set:
 <table><tr><td valign="top" width="25%">
@@ -17,6 +29,23 @@
 </div>
 </a>
  </td><td valign="top" width="25%">
+
+
+### Design Tool
+<a href="https://github.com/ProtikgoswamiCSE">
+  <div align="center">
+    <!-- Skillicons (AI + Figma) -->
+    <img src="https://skillicons.dev/icons?i=ai,figma&perline=2" />
+
+    <br/><br/>
+
+    <!-- Custom Icons -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Final_Cut_Pro_Logo.svg" width="50"/>
+
+  </div>
+</a>
 
 
 

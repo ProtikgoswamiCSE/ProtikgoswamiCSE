@@ -79,24 +79,22 @@
 <p align="left">
 
 <a href="https://www.facebook.com/protik.goswami.140" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="30" width="30"/>
+  <img src="https://img.icons8.com/color/48/facebook-new.png" height="30"/>
 </a>
 
 <a href="https://github.com/ProtikgoswamiCSE" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="30" width="30"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" height="30"/>
 </a>
 
 <a href="https://www.linkedin.com/in/protikgoswami/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30" width="30"/>
+  <img src="https://img.icons8.com/color/48/linkedin.png" height="30"/>
 </a>
 
 <a href="https://www.instagram.com/goswamiprotik/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" width="30"/>
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="30"/>
 </a>
 
 </p>
-
-
 
 
 

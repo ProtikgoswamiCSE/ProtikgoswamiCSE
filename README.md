@@ -2,7 +2,7 @@
   <a href="https://linkedin.com/in/sam-t-a6706235b">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=24&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Systems%20Administrator%20%E2%86%92%20DevOps;5%2B%20Years%20Enterprise%20IT%20Experience;Cloud%20%7C%20Automation%20%7C%20Security"
-      alt="Systems Administrator → engener · 5+ Years · Cloud | Automation | Security"
+      alt="Systems Administrator → engener · 50+ Years · Cloud | Automation | Security"
     />
   </a>
 </div>

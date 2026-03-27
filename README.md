@@ -11,7 +11,7 @@
 <table><tr><td valign="top" width="25%">
        
 ### Frontend  
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
 </div>
@@ -21,7 +21,7 @@
 
 
 ### Degine Tool
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
 </div>
@@ -30,7 +30,7 @@
 
        
 ### Languages
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
 </div>
@@ -39,7 +39,7 @@
 </td><td valign="top" width="25%">
 
 ### Others
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
 </div>
@@ -54,6 +54,9 @@
 
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/protik.goswami.140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/protik.goswami.140" height="30" width="40" /></a>
+
+
+       
 </p>
 
 

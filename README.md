@@ -54,7 +54,7 @@
 ### Languages
 <a href="https://github.com/ProtikgoswamiCSE">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python&perline=4" /> 
+  <img src="https://skillicons.dev/icons?i=laravel,Flutter,c,js,cpp,java,python&perline=4" /> 
 </div>
 </a>
 

@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=22&pause=1000&color=ffaa00&center=true&vCenter=true&width=600&lines=Hi%20I%20am%20Protik;CSE%20graduate;Django%20%7C%20Laravel%20Learner;Love%20Coding%20%F0%9F%92%BB"
+    src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=22&pause=1000&color=ffaa00&center=true&vCenter=true&width=600&lines=Hi%20I%20am%20Protik;CSE%20Graduate;Daffodil%20%20International%20University;Django%20%7C%20Laravel%20Learner;Love%20Coding%20%F0%9F%95%B5"
   />
 </div>
 
@@ -13,13 +13,29 @@
 
 <h3 align="left">[Connect with me:](https://linktr.ee/Protikgoswami))</h3>
 
+<h3>🧑‍💻 About Me</h3>
 
-### About:
+- 🎓 Computer Science & Engineering Student  <br>
+- 🌱 learning **Django & Laravel**  <br>
+- 💡 Passionate about **Web Development & UI Design**  <br>
+- ⚡ Love building real-world projects  <br>
+- 🎯 Goal: Become a **Full Stack Developer** <br>
+
+
+<br>
+
+## 💻 Live Projects
+| Project | Tech | Demo |
+|---------|------|------|
+| Portfolio Website | Laravel,HTML, CSS, JS | [Live](https://protikgoswami.info/) |
+| Django Blog | Django, Python | [GitHub](https://github.com/ProtikgoswamiCSE/Ai) |
+| Background-Remover | Html,CSS Js | [Live](https://comforting-haupia-8e442f.netlify.app/) |
 
 
 
-<p> gsdafg </p>
 
+
+<br>
 
 
 ## 🚀 Skill Set:
@@ -80,35 +96,62 @@
 
 
 
-## 📫 Connect with me:
 
-<p align="left">
 
-<a href="https://protikgoswami.info/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/domain.png" height="60"/>
-</a>
+## 📫 Connect with me
 
-<a href="https://www.facebook.com/protik.goswami.140" target="_blank">
-  <img src="https://img.icons8.com/color/48/facebook-new.png" height="60"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://protikgoswami.info/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="50"/><br>
+        <span style="color:red; font-weight:bold;">Website</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/protik.goswami.140" target="_blank">
+        <img src="https://img.icons8.com/color/48/facebook-new.png" width="50"/><br>
+        <span style="color:red; font-weight:bold;">Facebook</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/protikgoswami/" target="_blank">
+        <img src="https://img.icons8.com/color/48/linkedin.png" width="50"/><br>
+        <span style="color:red; font-weight:bold;">LinkedIn</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/goswamiprotik/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="50"/><br>
+        <span style="color:red; font-weight:bold;">Instagram</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ProtikgoswamiCSE" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/github.png" width="50"/><br>
+        <span style="color:red; font-weight:bold;">GitHub</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linktr.ee/Protikgoswami" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=9DOe33RY87VM&format=png&color=000000" width="50"/><br>
+        <span style="color:red; font-weight:bold;">Linktree</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/protikgoswami" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=s1rM4KTx2Huf&format=png&color=000000" width="50"/><br>
+        <span style="color:red; font-weight:bold;">Kaggle</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.linkedin.com/in/protikgoswami/" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png" height="60"/>
-</a>
 
-<a href="https://www.instagram.com/goswamiprotik/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="60"/>
-</a>
 
-<a href="https://github.com/ProtikgoswamiCSE" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/github.png" height="60"/>
-</a>
 
-<a href="https://linktr.ee/Protikgoswami" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=9DOe33RY87VM&format=png&color=000000" height="60"/>
-</a>
 
-</p>
+
 
 
 

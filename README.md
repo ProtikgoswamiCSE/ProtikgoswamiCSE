@@ -28,7 +28,7 @@
 | Project | Tech | Demo |
 |---------|------|------|
 | Portfolio Website | Laravel,HTML, CSS, JS | [Live](https://protikgoswami.info/) |
-| Django Blog | Django, Python | [GitHub](https://github.com/ProtikgoswamiCSE/Ai) |
+| Dengu_Dectation | Django, Python | [GitHub](https://github.com/ProtikgoswamiCSE/Dengu_Dectation) |
 | Background-Remover | Html,CSS Js | [Live](https://comforting-haupia-8e442f.netlify.app/) |
 
 
